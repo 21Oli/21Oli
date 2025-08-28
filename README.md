@@ -37,8 +37,6 @@ E-learning platform with dashboards for students, instructors, and admins
 ---
 
 
----
-
 ## 📫 Connect with Me  
 
 📧 **olibekele50@gmail.com**  
