@@ -14,10 +14,7 @@ Building modern web and mobile apps with clean, scalable code.
 
 ---
 
-## 📊 GitHub Stats  
-![Oli's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
 
----
 
 ## 📫 Contact  
 📧 **olibekele50@gmail.com**  
