@@ -36,9 +36,6 @@ E-learning platform with dashboards for students, instructors, and admins
 
 ---
 
-## 📊 GitHub Stats  
-
-![Oli's GitHub stats](https://github-readme-stats.vercel.app/api?username=21Oli&show_icons=true&theme=tokyonight)  
 
 ---
 
