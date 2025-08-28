@@ -38,14 +38,14 @@ E-learning platform with dashboards for students, instructors, and admins
 
 ## 📊 GitHub Stats  
 
-![Oli's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
+![Oli's GitHub stats](https://github-readme-stats.vercel.app/api?username=21Oli&show_icons=true&theme=tokyonight)  
 
 ---
 
 ## 📫 Connect with Me  
 
 📧 **olibekele50@gmail.com**  
-💼 [LinkedIn](#) | 🌐 [Portfolio](#)  
+💼 [LinkedIn](https://www.linkedin.com/in/oli-bakala/)  
 
 ---
 
